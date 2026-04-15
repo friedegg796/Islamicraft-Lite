@@ -12,7 +12,6 @@ Albeit, it doesn't, unlike the full version, remove the faces from all of the we
 
 For a more Exhaustive list, I haven't finished the website yet so this is a WIP, will be finished inshaAllah.
 
-Audio for the Discs was gotten from https://www.mp3quran.net/eng
 
 ## I have issue gerrr/hmm I wanna know something
 Make an [issue](https://github.com/friedegg796/Islamicraft-Lite/issues), I'll check it inshaAllah.
@@ -39,6 +38,7 @@ On Github you install the zip, unzip it, and then do the above.
 
 ## Credits
 
+### Textures
 In /assets/minecraft/textures/painting/
 For burning_skull.png:
 Nikeman916 in the Public Domain, Masjid Al-Aqsa picture.
@@ -72,12 +72,12 @@ Made by TheDarkPeasant and Mohuzato
 The images in question had their faces and noses removed if any
 And in specific, the Christmas version of the magispeller was no longer christmasy
 
+### Audio
+
 Everything in assets/minecraft/sounds/music/game/creative:
 Music Provided By NoCopyrightNasheeds
 Title: Dramatic & Calming Background Nasheed ┇ Vocals Only [No Copyright Nasheeds]
 Watch:[    • Dramatic & Calming Background Nasheed ┇ Vo...  ](https://www.youtube.com/watch?v=hlK3dqsJrEs)
-
-
 
 All files (NOT FOLDERS) in assets/minecraft/sounds/music/game
 Music Provided By NoCopyrightNasheeds
@@ -96,4 +96,7 @@ Video was made into an OGG audio file
 
 Careful with the above video's channel, this specific video was fine but I fear there may be not-so-good content on there.
 
-Please note I do NOT CONDONE the above people, I only took what was benefical from them.
+Audio for the Discs:
+https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
+
+Please note I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
