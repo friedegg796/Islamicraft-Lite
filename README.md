@@ -15,11 +15,11 @@ For a more Exhaustive list, I haven't finished the website yet so this is a WIP,
 Audio for the Discs was gotten from https://www.mp3quran.net/eng
 
 ## I have issue gerrr/hmm I wanna know something
-Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
+Make an [issue](https://github.com/friedegg796/Islamicraft-Lite/issues), I'll check it inshaAllah.
 
 ### Why?
 
-Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), having a few reminders (if you can find them), and reconciling with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with these packs)
+Ok so like free good deeds, cuz it prevents the MC + a few mods from playing music, adds frequent reminders (WE LOVE GOOD DEEDS), and makes Minecraft very very very clearly Halal (No infighting with the Muslims about if MC is Halal or not with this one!).
 
 ### (Insert thing here) isn't Haram!
 
@@ -45,7 +45,7 @@ Nikeman916 in the Public Domain, Masjid Al-Aqsa picture.
 For pond.png:
 omar8000@gmail.com Gave permission.
 For skeleton.png:
-Jahfarov Muhammadnur in the Public Domain, Masjid-al-haram
+Jahfarov Muhammadnur in the Public Domain, Masjid-al-Haram
 For wither.png:
 Bdx in the Public Domain, İskenderun Nihal Atakaş Mosque
 for skull_and_roses.png:
