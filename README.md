@@ -1,6 +1,6 @@
 # Islamicraft-Lite
 
-Makes Minecraft (Including some mods) quite the bit more clearly Halal, removing any doubt that it would be Haram.
+Makes Minecraft quite the bit more clearly Halal, removing any doubt that it would be Haram.
 
 This includes changing things like Pork to be Truffles (Fun fact, Truffles are a fungus that pigs can actually sniff for!), and changing the Totem of Undying to, in the exact wording, a "Super High Quality Defibrillator."
 
