@@ -33,7 +33,7 @@ Read the [License](https://github.com/friedegg796/Islamicraft-Lite?tab=License-1
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On Github you install the zip, unzip it, and then do the above.
+On [Github](https://github.com/friedegg796/Islamicraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above.
 
 
 ## Credits
