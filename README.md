@@ -93,3 +93,8 @@ Audio for the Discs:
 https://www.mp3quran.net/eng with it itsself saying "Copyrights: All rights are available to everyone, and we allow any visitor or developer to copy any material or use any link on the websites"
 
 Please note I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
+
+
+#### Disclaimer
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
