@@ -40,22 +40,31 @@ On [Github](https://github.com/friedegg796/Islamicraft-Lite?tab=readme-ov-file) 
 
 ### Textures
 In /assets/minecraft/textures/painting/
+
 For burning_skull.png:
 Nikeman916 in the Public Domain, Masjid Al-Aqsa picture.
+
 For pond.png:
 omar8000@gmail.com Gave permission.
+
 For skeleton.png:
 Jahfarov Muhammadnur in the Public Domain, Masjid-al-Haram
+
 For wither.png:
 Bdx in the Public Domain, İskenderun Nihal Atakaş Mosque
+
 for skull_and_roses.png:
 Keira.alfatih in the Public Domain, Masjid Apung Pagatan
+
 for humble.png:
 ItsAsyl in the Public Domain,The Grand Mosque named after Seyitjan-Qari Esjanuly
+
 owlemons.png:
 Spear in the Public Domain, Salama Mosque at Basateen
+
 stage.png:
-Karelj in the Public Domain, Big mosque in centre of Hurghada, Egypt
+Karelj in the Public Domain, Abd Al-Mun'im Riyad Mosque
+
 creebet.png:
 Erik Albers in the Public Domain, Dome of Jamh Mosque, Yazd, Iran
 
