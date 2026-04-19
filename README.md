@@ -18,7 +18,7 @@ Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll ch
 
 ### Why?
 
-Ok so like free good deeds, cuz it prevents the MC + a few mods from playing music, adds frequent reminders (WE LOVE GOOD DEEDS), and makes Minecraft very very very clearly Halal (No infighting with the Muslims about if MC is Halal or not with this one!).
+Ok so like free good deeds, cuz it prevents the MC from playing music, adds frequent reminders (WE LOVE GOOD DEEDS), and makes Minecraft very very very clearly Halal (No infighting with the Muslims about if MC is Halal or not with this one!).
 
 ### (Insert thing here) isn't Haram!
 
