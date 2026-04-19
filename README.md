@@ -1,4 +1,4 @@
-# Islamicraft-Lite
+# Muslimcraft-Lite
 
 Makes Minecraft quite the bit more clearly Halal, removing any doubt that it would be Haram.
 
@@ -14,7 +14,7 @@ For a more Exhaustive list, I haven't finished the website yet so this is a WIP,
 
 
 ## I have issue gerrr/hmm I wanna know something
-Make an [issue](https://github.com/friedegg796/Islamicraft-Lite/issues), I'll check it inshaAllah.
+Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
 
 ### Why?
 
@@ -27,13 +27,13 @@ Just because the pack explodes it doesn't mean nessecarily it is Haram, but it m
 There are also differing opinions based on what would be considered Haram or not, I'm just trying to emcompass all of them (We're being safe and secure with this one!!!!).
 
 ### Could I put your Resourcepack into MY modpack?
-Read the [License](https://github.com/friedegg796/Islamicraft-Lite?tab=License-1-ov-file#)
+Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)
 
 ### How do I install this...
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On [Github](https://github.com/friedegg796/Islamicraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above.
+On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above.
 
 
 ## Credits
